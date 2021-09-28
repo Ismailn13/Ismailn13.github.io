@@ -1,5 +1,6 @@
-# Ismailn13.github.io
+# [Ismailn13.github.io](https://Ismailn13.github.io)
 ## This is part of Lab1
+## Website link : 
 
 ### The repository contains a few different file types and everything is organised into separate folders
 ### The layouts folder contains the general layout of the website and is called upon when necessary
