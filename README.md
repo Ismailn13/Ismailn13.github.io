@@ -1,7 +1,7 @@
 # [Ismailn13.github.io](https://Ismailn13.github.io)
 ## This is part of Lab1
 <div align = "left">
-img alt="Web Programming" src="https://github.com/Ismailn13/Ismailn13.github.io/blob/6d7c86133b5d63081d24cbe0d27bd9236fa8a6b2/Images/Readme%20Image.png">
+<img alt="Web Programming" src="https://github.com/Ismailn13/Ismailn13.github.io/blob/6d7c86133b5d63081d24cbe0d27bd9236fa8a6b2/Images/Readme%20Image.png">
 </div> 
 ### The repository contains a few different file types and everything is organised into separate folders
 ### The layouts folder contains the general layout of the website and is called upon when necessary
